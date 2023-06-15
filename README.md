@@ -1,4 +1,4 @@
-# Horiseon-Business
+# Horiseon-Business-Ideas
 
 ## Description
 
