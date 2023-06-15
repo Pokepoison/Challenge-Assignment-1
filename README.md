@@ -22,7 +22,7 @@ N/A
 ## Credits
 
 
-N/A
+Starter code is provided by the University of California Berkeley
 
 
 ## License
