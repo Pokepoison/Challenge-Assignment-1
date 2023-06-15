@@ -18,11 +18,9 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
+
 
 .header header {
     padding-top: 15px;
@@ -62,17 +60,20 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+    max-height: 200px;
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
+    max-height: 200px;
 }
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    flex-wrap: wrap;
 }
 
 .benefits {
@@ -98,7 +99,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -165,4 +165,3 @@ p {
 .footer h4 {
     font-size: 20px;
 }
-
